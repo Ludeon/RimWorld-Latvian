@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageInfo>
-  <friendlyNameNative>English</friendlyNameNative>
-  <friendlyNameEnglish>English</friendlyNameEnglish>
+  <friendlyNameNative>Latviešu</friendlyNameNative>
+  <friendlyNameEnglish>Latvian</friendlyNameEnglish>
   <canBeTiny>true</canBeTiny>
-  <languageWorkerClass>LanguageWorker_English</languageWorkerClass>
   <credits>
     <li Class="CreditRecord_Role">
-      <roleKey>Credit_Writer</roleKey>
-      <creditee>Tynan Sylvester</creditee>
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Nils 'Deele'</creditee>
     </li>
   </credits>
 </LanguageInfo>
