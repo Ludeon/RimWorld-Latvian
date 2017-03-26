@@ -2,173 +2,173 @@
 <LanguageData>
 
   <!--=========== Main menu ==========-->
-  <Tutorial>Tutorial</Tutorial>
-  <NewColony>New colony</NewColony>
-  <BackToGame>Back to game</BackToGame>
-  <ReviewScenario>Review scenario</ReviewScenario>
-  <Save>Save</Save>
-  <LoadGame>Load game</LoadGame>
-  <Options>Options</Options>
-  <Mods>Mods</Mods>
-  <Credits>Credits</Credits>
-  <QuitToMainMenu>Quit to main menu</QuitToMainMenu>
-  <SaveAndQuitToMainMenu>Save and quit to menu</SaveAndQuitToMainMenu>
-  <QuitToOS>Quit to OS</QuitToOS>
-  <SaveAndQuitToOS>Save and quit to OS</SaveAndQuitToOS>
-  <FictionPrimer>Fiction primer</FictionPrimer>
-  <LudeonBlog>Ludeon blog</LudeonBlog>
-  <Forums>Forums</Forums>
-  <OfficialWiki>Official wiki</OfficialWiki>
-  <TynansTwitter>Tynan's twitter</TynansTwitter>
-  <TynansDesignBook>Tynan's design book</TynansDesignBook>
-  <HelpTranslate>Help translate RimWorld</HelpTranslate>
-  <BuySoundtrack>Buy soundtrack</BuySoundtrack>
-  <CreateWorld>Create world</CreateWorld>
+  <Tutorial>Pamācība</Tutorial>
+  <NewColony>Jauna kolonija</NewColony>
+  <BackToGame>Atpakaļ uz spēli</BackToGame>
+  <ReviewScenario>Pārskatīt scenāriju</ReviewScenario>
+  <Save>Saglabāt</Save>
+  <LoadGame>Ielādēt spēli</LoadGame>
+  <Options>Uzstādījumi</Options>
+  <Mods>Modifikācijas</Mods>
+  <Credits>Titri</Credits>
+  <QuitToMainMenu>Iziet uz galveno izvēlni</QuitToMainMenu>
+  <SaveAndQuitToMainMenu>Saglabāt un iziet uz izvēlni</SaveAndQuitToMainMenu>
+  <QuitToOS>Iziet uz OS</QuitToOS>
+  <SaveAndQuitToOS>Saglabāt un iziet uz OS</SaveAndQuitToOS>
+  <FictionPrimer>Fantāzijas ābece</FictionPrimer>
+  <LudeonBlog>Ludeon emuārs</LudeonBlog>
+  <Forums>Forumi</Forums>
+  <OfficialWiki>Oficiālā vikipēdija</OfficialWiki>
+  <TynansTwitter>Tainana tviteris</TynansTwitter>
+  <TynansDesignBook>Tainana dizaina grāmata</TynansDesignBook>
+  <HelpTranslate>Palīdzi tulkot RimWorld</HelpTranslate>
+  <BuySoundtrack>Nopērc skaņu celiņu</BuySoundtrack>
+  <CreateWorld>Izveido pasauli</CreateWorld>
 
   <!--=========== Create/review world ================-->
-  <ReviewWorld>Review world</ReviewWorld>
-  <WorldGenerate>Generate</WorldGenerate>
-  <WorldSaveAndFinish>Save and finish</WorldSaveAndFinish>
-  <Reset>Reset</Reset>
-  <PlanetCoverage>Globe coverage</PlanetCoverage>
-  <PlanetRainfall>Overall rainfall</PlanetRainfall>
-  <PlanetTemperature>Overall temperature</PlanetTemperature>
-  <PlanetRainfall_Low>Low</PlanetRainfall_Low>
-  <PlanetRainfall_Normal>Normal</PlanetRainfall_Normal>
-  <PlanetRainfall_High>High</PlanetRainfall_High>
-  <PlanetTemperature_Low>Low</PlanetTemperature_Low>
-  <PlanetTemperature_Normal>Normal</PlanetTemperature_Normal>
-  <PlanetTemperature_High>High</PlanetTemperature_High>
-  <WorldSeed>Seed</WorldSeed>
-  <RandomizeSeed>Randomize seed</RandomizeSeed>
-  <PlanetCoverageTip>The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated.</PlanetCoverageTip>
+  <ReviewWorld>Pārskatīt pasauli</ReviewWorld>
+  <WorldGenerate>Ģenerēt</WorldGenerate>
+  <WorldSaveAndFinish>Saglabāt un beigt</WorldSaveAndFinish>
+  <Reset>Atiestatīt</Reset>
+  <PlanetCoverage>Globusa pārklājums</PlanetCoverage>
+  <PlanetRainfall>Nokrišņi kopumā</PlanetRainfall>
+  <PlanetTemperature>Temperatūra kopumā</PlanetTemperature>
+  <PlanetRainfall_Low>Zemi</PlanetRainfall_Low>
+  <PlanetRainfall_Normal>Normāli</PlanetRainfall_Normal>
+  <PlanetRainfall_High>Augsti</PlanetRainfall_High>
+  <PlanetTemperature_Low>Zema</PlanetTemperature_Low>
+  <PlanetTemperature_Normal>Normāla</PlanetTemperature_Normal>
+  <PlanetTemperature_High>Augsta</PlanetTemperature_High>
+  <WorldSeed>Sēkla</WorldSeed>
+  <RandomizeSeed>Samaisīt sēklu</RandomizeSeed>
+  <PlanetCoverageTip>Planēta vienmēr ir ar vienādu diametru, bet tā kā tā ir daudz par lielu priekš spēlēšanas, mēs neģenerējam visas pasaules virsmu, jo tas var aizņemt ļoti ilgu laiku. Šī ir procentuāla virsmas daļa, kuru tu gribētu, lai tiktu ģenerēta.</PlanetCoverageTip>
 
   <!--=========== Select world ===================-->
-  <SelectWorld>Select world</SelectWorld>
-  <WorldChooseButton>Select</WorldChooseButton>
-  <NoWorldsFilesFound>No world files found. Create a world first.</NoWorldsFilesFound>
+  <SelectWorld>Izvēlies pasauli</SelectWorld>
+  <WorldChooseButton>Izvēlies</WorldChooseButton>
+  <NoWorldsFilesFound>Netika atrasti pasauļu faili. Pa priekšu izveido pasauli.</NoWorldsFilesFound>
   
   <!--=========== Version info ==========-->
-  <BuildNowAvailable>Version {0} is now available. Check ludeon.com for more info.</BuildNowAvailable>
-	<BuildUpToDate>This is the latest version.</BuildUpToDate>
-	<ErrorGettingVersionInfo>Error getting version info: {0}</ErrorGettingVersionInfo>
-	<LoadingVersionInfo>Loading version info...</LoadingVersionInfo>
+  <BuildNowAvailable>Tagad ir pieejama versija {0}. Dodies uz ludeon.com lai uzzinātu vairāk.</BuildNowAvailable>
+	<BuildUpToDate>Šī ir pēdējā versija.</BuildUpToDate>
+	<ErrorGettingVersionInfo>Kļūme iegūstot informāciju par versiju: {0}</ErrorGettingVersionInfo>
+	<LoadingVersionInfo>Ielādēju informāciju par versiju...</LoadingVersionInfo>
 
   <!--=========== World generator =========-->
-  <GenerateWorld>Generate world</GenerateWorld>
+  <GenerateWorld>Ģenerēt pasauli</GenerateWorld>
 
   <!--=========== Mods config ==========-->
-  <OpenSteamWorkshop>Open Steam Workshop</OpenSteamWorkshop>
-  <GetModsFromForum>Get mods from forum</GetModsFromForum>
-  <OpenModsDataFolder>Open mods data folder</OpenModsDataFolder>
-  <ConfirmDisableCoreMod>Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName.</ConfirmDisableCoreMod>
-  <ConfirmDeleteMod>Are you sure you want to delete all the content for {0}?</ConfirmDeleteMod>
-  <Unsubscribe>Unsubscribe</Unsubscribe>
-  <ConfirmUnsubscribe>Are you sure you want to unsubscribe from {0}?</ConfirmUnsubscribe>
-  <Author>Author</Author>
-  <WorkshopPage>Workshop page</WorkshopPage>
-  <UploadToSteamWorkshop>Upload to Steam Workshop</UploadToSteamWorkshop>
-  <UpdateOnSteamWorkshop>Update on Steam Workshop</UpdateOnSteamWorkshop>
-  <UploadAlreadyInProgress>Upload already in progress.</UploadAlreadyInProgress>
-  <WorkshopSubmissionFailed>Workshop submission failed.\n\nReason: {0}</WorkshopSubmissionFailed>
-  <WorkshopUploadSucceeded>Successfully uploaded {0}.</WorkshopUploadSucceeded>
-  <Downloading>Downloading</Downloading>
-  <Source>Source</Source>
-  <ModTargetVersion>For version: {0}</ModTargetVersion>
-  <ModNotMadeForThisVersion>This mod was not made for this version of RimWorld, and will probably not work correctly.</ModNotMadeForThisVersion>
-  <MessageModNeedsWellFormattedTargetVersion>Mod needs a well-formatted target version in About.xml. Like this: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
-  <DragToReorder>Drag to reorder</DragToReorder>
+  <OpenSteamWorkshop>Atvērt Steam darbnīcu</OpenSteamWorkshop>
+  <GetModsFromForum>Iegūt modifikācijas no foruma</GetModsFromForum>
+  <OpenModsDataFolder>Atvērt modifikāciju datu mapi</OpenModsDataFolder>
+  <ConfirmDisableCoreMod>Vai tu patiešām vēlies atspējot kodola modifikāciju? Spēle vispār nestrādās, ja vien tev ir kāda modifikācija, aizvieto kodola funkcionalitāti.\n\nAtceries, citas modifikācijas pārraksta kodola modifikācijas uzstādījumus (defs) izmantojot tos pašus nosaukmus (defName).</ConfirmDisableCoreMod>
+  <ConfirmDeleteMod>Vai tu patiešām vēlies dzēst visu saturu priekš {0}?</ConfirmDeleteMod>
+  <Unsubscribe>Atrakstīties</Unsubscribe>
+  <ConfirmUnsubscribe>Vai tu patiešām vēlies atrakstīties no {0}?</ConfirmUnsubscribe>
+  <Author>Autors</Author>
+  <WorkshopPage>Darbnīcas lapa</WorkshopPage>
+  <UploadToSteamWorkshop>Augšupielādēt Steam darbnīcā</UploadToSteamWorkshop>
+  <UpdateOnSteamWorkshop>Atjaunināt Steam darbnīcā</UpdateOnSteamWorkshop>
+  <UploadAlreadyInProgress>Augšupielāde jau notiek.</UploadAlreadyInProgress>
+  <WorkshopSubmissionFailed>Iesniegums darbnīcai bija nesekmīgs.\n\nAtbilde: {0}</WorkshopSubmissionFailed>
+  <WorkshopUploadSucceeded>Sekmīgi augšupielādēts {0}.</WorkshopUploadSucceeded>
+  <Downloading>Lejupielādēju</Downloading>
+  <Source>Avots</Source>
+  <ModTargetVersion>Priekš versijas: {0}</ModTargetVersion>
+  <ModNotMadeForThisVersion>Šī modifikācija netika veidota priekš šīs RimWorld versijas un visdrīzākais, ka nestrādās korekti.</ModNotMadeForThisVersion>
+  <MessageModNeedsWellFormattedTargetVersion>Modifikācijai ir nepieciešams pareizi noformēta mērķa versija iekš About.xml. Piemēram: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
+  <DragToReorder>Velc, lai mainītu secību</DragToReorder>
   
   <!--=========== Select scenario =============-->
-  <ChooseScenario>Choose scenario</ChooseScenario>
-  <ScenariosCustom>Custom</ScenariosCustom>
-  <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
-  <ScenarioEditor>Scenario editor</ScenarioEditor>
-  <Delete>Delete</Delete>
+  <ChooseScenario>Izvēlies scenāriju</ChooseScenario>
+  <ScenariosCustom>Pielāgots</ScenariosCustom>
+  <ScenariosSteamWorkshop>Steam darbnīca</ScenariosSteamWorkshop>
+  <ScenarioEditor>Scenāriju redaktors</ScenarioEditor>
+  <Delete>Dzēst</Delete>
   
   <!--============ Scenario editor ===============-->
-  <Seed>seed</Seed>
-  <Load>Load</Load>
-  <EditMode>edit mode</EditMode>
-  <Summary>Summary</Summary>
-  <AddPart>Add part</AddPart>
-  <TextFieldsMustBeFilled>All text fields must be filled.</TextFieldsMustBeFilled>
-  <ConfirmSteamWorkshopUpload>Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
-  <ConfirmContentAuthor>Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself?</ConfirmContentAuthor>
-  <Incompatible>Incompatible</Incompatible>
-  <TooMany>Too many (max {0}): </TooMany>
-  <CanBeUpdatedOnWorkshop>Can be updated on Workshop, since you are the author.</CanBeUpdatedOnWorkshop>
+  <Seed>sēkla</Seed>
+  <Load>Ielādēt</Load>
+  <EditMode>rediģēšanas režīms</EditMode>
+  <Summary>Kopsavilkums</Summary>
+  <AddPart>Pievienot daļu</AddPart>
+  <TextFieldsMustBeFilled>Visi teksta lauki ir jāaizpilda.</TextFieldsMustBeFilled>
+  <ConfirmSteamWorkshopUpload>Vai tu patiešām vēlies augšupielādēt Steam darbnīcā?\n\nTev ir jāpiekrīt Steam darbnīcas pakalpojumu sniegšanas noteikumiem. Tos pilnā formātā vari atrast šeit:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <ConfirmContentAuthor>Acīmredzot tev vajadzētu augšupielādēt tikai tu saturu, kuram tu pats esi autors.\n\nVai tu esi autors šim saturam?</ConfirmContentAuthor>
+  <Incompatible>Nesaderīgs</Incompatible>
+  <TooMany>Pārāk daudz (maksimums {0}): </TooMany>
+  <CanBeUpdatedOnWorkshop>Tā kā tu esi autors, šis var tikt augšupielādēts darbnīcā.</CanBeUpdatedOnWorkshop>
   
   <!--=========== Select storyteller ==========-->
-  <ChooseAIStoryteller>Choose AI Storyteller</ChooseAIStoryteller>
-  <HowStorytellersWork>The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time.</HowStorytellersWork>
-  <MustChooseDifficulty>Please choose a difficulty setting.</MustChooseDifficulty>
-  <Difficulty>Difficulty</Difficulty>
+  <ChooseAIStoryteller>Izvēlies MI stāstītāju</ChooseAIStoryteller>
+  <HowStorytellersWork>MI stāstītāji veido tādus atgadījumus kā pirātu reidi, resursu nokrišņi vai dzīvnieku uzbrukumi. Tā izvēles iespaidos tavas kolonijas stāstu. Tu vari mainīt šos uzstādījumus jebkurā laikā.</HowStorytellersWork>
+  <MustChooseDifficulty>Lūdzu izvēlies grūtības līmeni.</MustChooseDifficulty>
+  <Difficulty>Grūtības līmenis</Difficulty>
 
   <!--=========== Landing site select =========-->
-  <SelectLandingSite>Select landing site</SelectLandingSite>
-  <SelectRandomSite>Select random site</SelectRandomSite>
-  <SelectSite>Select site</SelectSite>
-  <MustSelectLandingSite>Please select a landing site.</MustSelectLandingSite>
-  <CannotLandBiome>You cannot land on this biome: {0}</CannotLandBiome>
-  <BiomeNotImplemented>Biome not implemented</BiomeNotImplemented>
-  <CannotLandImpassableMountains>You cannot land on impassable mountains.</CannotLandImpassableMountains>
-  <BaseAlreadyThere>{0} already have a base there.</BaseAlreadyThere>
-  <Biome>Biome</Biome>
-  <Terrain>Terrain</Terrain>
-  <Elevation>Elevation</Elevation>
-  <Fertility>Fertility</Fertility>
-  <AvgTemp>Average temperature</AvgTemp>
-  <AvgSummerTemp>Summer temperature</AvgSummerTemp>
-	<AvgWinterTemp>Winter temperature</AvgWinterTemp>
-	<Rainfall>Rainfall</Rainfall>
-  <HasCoast0>Northern coast</HasCoast0>
-  <HasCoast1>Eastern coast</HasCoast1>
-  <HasCoast2>Southern coast</HasCoast2>
-  <HasCoast3>Western coast</HasCoast3>
-  <FactionBase>Faction base</FactionBase>
-  <StoneTypesHere>Stone types</StoneTypesHere>
-  <TimeZone>Time zone</TimeZone>
-	<MovementTimeNow>Current movement time</MovementTimeNow>
-	<MovementTimeSummer>Summer movement time</MovementTimeSummer>
-	<MovementTimeWinter>Winter movement time</MovementTimeWinter>
+  <SelectLandingSite>Izvēlies nolaišanās vietu</SelectLandingSite>
+  <SelectRandomSite>Izvēlēties nejaušu vietu</SelectRandomSite>
+  <SelectSite>Izvēlies vietu</SelectSite>
+  <MustSelectLandingSite>Lūdzu izvēlies nolaišanās vietu.</MustSelectLandingSite>
+  <CannotLandBiome>Tu nevari nolaisties šajā dabas zonā: {0}</CannotLandBiome>
+  <BiomeNotImplemented>Dabas zona nav īstenota</BiomeNotImplemented>
+  <CannotLandImpassableMountains>Tu nevari nolaisties uz necaurejamiem kalniem.</CannotLandImpassableMountains>
+  <BaseAlreadyThere>{0} tur jau bāzējas.</BaseAlreadyThere>
+  <Biome>Dabas zona</Biome>
+  <Terrain>Apvidus</Terrain>
+  <Elevation>Augstums</Elevation>
+  <Fertility>Auglība</Fertility>
+  <AvgTemp>Vidējā temperatūra</AvgTemp>
+  <AvgSummerTemp>Temperatūra vasarā</AvgSummerTemp>
+	<AvgWinterTemp>Temperatūra ziemā</AvgWinterTemp>
+	<Rainfall>Nokrišņi</Rainfall>
+  <HasCoast0>Ziemeļu piekraste</HasCoast0>
+  <HasCoast1>Austrumu piekraste</HasCoast1>
+  <HasCoast2>dienvidu piekraste</HasCoast2>
+  <HasCoast3>Rietumu piekraste</HasCoast3>
+  <FactionBase>Frakcijas bāze</FactionBase>
+  <StoneTypesHere>Akmens veidi</StoneTypesHere>
+  <TimeZone>Laika zona</TimeZone>
+	<MovementTimeNow>Pašreizējais kustības laiks</MovementTimeNow>
+	<MovementTimeSummer>Kustības laiks vasarā</MovementTimeSummer>
+	<MovementTimeWinter>Kustības laiks ziemā</MovementTimeWinter>
 
 
 	<!--=========== Character chooser ==========-->
-  <CreateCharacters>Create characters</CreateCharacters>
-  <FirstNameDesc>The character's first name.\n\nThis is only displayed in certain menus.</FirstNameDesc>
-  <ShortIdentifierDesc>The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname.</ShortIdentifierDesc>
-  <LastNameDesc>The character's last name.\n\nThis is only displayed in certain menus.</LastNameDesc>
-  <Randomize>Randomize</Randomize>
-  <AgeIndicator>age {0}</AgeIndicator>
-  <Backstory>Backstory</Backstory>
-  <IncapableOf>Incapable of</IncapableOf>
-  <Traits>Traits</Traits>
-  <PermanentMoodEffect>Permanent mood effect</PermanentMoodEffect>
-  <Skills>Skills</Skills>
-  <NoneLower>none</NoneLower>
-  <Adulthood>Adulthood</Adulthood>
-  <Childhood>Childhood</Childhood>
-  <Male>male</Male>
-  <Female>female</Female>
-  <Pain>Pain</Pain>
-  <Health>Health</Health>
-  <Relations>Relations</Relations>
+  <CreateCharacters>Izveidot personāžus</CreateCharacters>
+  <FirstNameDesc>Personāža vārds.\n\nŠis tiek attēlots tikai atsevišķās izvēlnēs.</FirstNameDesc>
+  <ShortIdentifierDesc>Personāža īss identifikators.\n\nŠis tiek attēlots visu laiku. Tas var būt vārds, uzvārds vai pilnīgi neatkarīga iesauka.</ShortIdentifierDesc>
+  <LastNameDesc>Personāža uzvārds.\n\nŠis tiek attēlots tikai atsevišķās izvēlnēs.</LastNameDesc>
+  <Randomize>Samaisīt</Randomize>
+  <AgeIndicator>vecums {0}</AgeIndicator>
+  <Backstory>Dzīvesstāsts</Backstory>
+  <IncapableOf>Nespēj</IncapableOf>
+  <Traits>Iezīmes</Traits>
+  <PermanentMoodEffect>Pastāvīga garastāvokļa ietekme</PermanentMoodEffect>
+  <Skills>Prasmes</Skills>
+  <NoneLower>nav</NoneLower>
+  <Adulthood>Pilngadība</Adulthood>
+  <Childhood>Bērnība</Childhood>
+  <Male>vīrietis</Male>
+  <Female>sieviete</Female>
+  <Pain>Sāpes</Pain>
+  <Health>Veselība</Health>
+  <Relations>Attiecības</Relations>
   
   <!--=========== Misc ==========-->
-  <Start>Start</Start>
-  <Advanced>Advanced</Advanced>
-  <Next>Next</Next>
-  <Back>Back</Back>
-  <Gameplay>Gameplay</Gameplay>
-  <ConfirmQuit>Really quit? You'll lose unsaved progress.</ConfirmQuit>
-  <EveryoneNeedsValidName>Each person needs a valid name.</EveryoneNeedsValidName>
-  <Quit>Quit</Quit>
-  <Ignore>Ignore</Ignore>
+  <Start>Sākt</Start>
+  <Advanced>Paplašināti</Advanced>
+  <Next>Tālāk</Next>
+  <Back>Atpakaļ</Back>
+  <Gameplay>Spēlēšana</Gameplay>
+  <ConfirmQuit>Patiešām iziet? Tu pazaudēsi nesaglabātos sasniegumus.</ConfirmQuit>
+  <EveryoneNeedsValidName>Katrai personai vajag derīgu vārdu.</EveryoneNeedsValidName>
+  <Quit>Iziet</Quit>
+  <Ignore>Ignorēt</Ignore>
   
   <!--============ Progress bar==============-->
-  <GeneratingWorld>Generating world</GeneratingWorld>
-  <GeneratingMap>Generating map</GeneratingMap>
-  <GeneratingMapForNewEncounter>Generating map for new encounter</GeneratingMapForNewEncounter>
+  <GeneratingWorld>Ģenerē pasauli</GeneratingWorld>
+  <GeneratingMap>Ģenerē karti</GeneratingMap>
+  <GeneratingMapForNewEncounter>Ģenerē karti priekš jaunās sastapšanās</GeneratingMapForNewEncounter>
 
 </LanguageData>
