@@ -6,31 +6,31 @@
   <LetterMinute>m</LetterMinute>
   <LetterSecond>s</LetterSecond>
   
-  <DaysLower>days</DaysLower>
-  <SecondsLower>seconds</SecondsLower>
+  <DaysLower>dienas</DaysLower>
+  <SecondsLower>sekundes</SecondsLower>
 
-  <SeasonSpring>spring</SeasonSpring>
-  <SeasonSummer>summer</SeasonSummer>
-  <SeasonFall>fall</SeasonFall>
-  <SeasonWinter>winter</SeasonWinter>
+  <SeasonSpring>pavasaris</SeasonSpring>
+  <SeasonSummer>vasara</SeasonSummer>
+  <SeasonFall>rudens</SeasonFall>
+  <SeasonWinter>ziema</SeasonWinter>
 
-  <Born>Born: {0}</Born>
-  <AgeChronological>Chronological age: {0} years, {1} seasons, {2} days</AgeChronological>
-  <AgeBiological>Biological age: {0} years, {1} seasons, {2} days</AgeBiological>
+  <Born>Dzimis: {0}</Born>
+  <AgeChronological>Hronoloģiskais vecums: {0} gadi, {1} sezonas, {2} dienas</AgeChronological>
+  <AgeBiological>Bioloģiskais vecums: {0} gadi, {1} sezonas, {2} dienas</AgeBiological>
 
   <!-- Date periods -->
-	<Period1Year>1 year</Period1Year>
-  <PeriodYears>{0} years</PeriodYears>
-  <Period1Season>1 season</Period1Season>
-  <PeriodSeasons>{0} seasons</PeriodSeasons>
-  <Period1Day>1 day</Period1Day>
-  <PeriodDays>{0} days</PeriodDays>
-  <Period1Hour>1 hour</Period1Hour>
-  <PeriodHours>{0} hours</PeriodHours>
+	<Period1Year>1 gads</Period1Year>
+  <PeriodYears>{0} gadi</PeriodYears>
+  <Period1Season>1 sezona</Period1Season>
+  <PeriodSeasons>{0} sezonas</PeriodSeasons>
+  <Period1Day>1 diena</Period1Day>
+  <PeriodDays>{0} dienas</PeriodDays>
+  <Period1Hour>1 stunda</Period1Hour>
+  <PeriodHours>{0} stundas</PeriodHours>
 
   <!-- Misc -->
-  <Started>Started</Started>
-  <Lasted>Lasted</Lasted>
-  <OccurredTimeAgo>occurred {0} ago</OccurredTimeAgo>
+  <Started>Sākās</Started>
+  <Lasted>Ilga</Lasted>
+  <OccurredTimeAgo>notika pirms {0}</OccurredTimeAgo>
   
 </LanguageData>
