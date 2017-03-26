@@ -1,73 +1,73 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Autosaving>Autosaving</Autosaving>
-  <GameStartDialog>The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive.</GameStartDialog>
-  <Colony>Colony</Colony>
-  <ChangeLanguageFromMainMenu>You can only change language from the options screen on the main menu.</ChangeLanguageFromMainMenu>
-  <AndLower>and</AndLower>
-  <DisabledLower>disabled</DisabledLower>
+  <Autosaving>Automātiskā saglabāšana</Autosaving>
+  <GameStartDialog>Atskanot sirēnas un plīstoša metāla skaņām, jūs trīs pamostaties savos kriptomiega sarkofāgos. Jūs knapi paspējat izmukt laukā no savām glābšanas kapsulām pirms kuģis ir sarauts gabalos.\n\nVēlāk, jūs nolaižaties uz nezināmas loka zemes.\n\nKamēr sasmalcinātie kosmosa kuģa gabali krīt uz zemes apkārt jums, jūs sākat plānot savas izdzīvošanas iespējas.</GameStartDialog>
+  <Colony>Kolonija</Colony>
+  <ChangeLanguageFromMainMenu>Tu vari nomainīt valodu tikai no uzstādījumu ekrāna, kas pieejams galvenajā izvēlnē.</ChangeLanguageFromMainMenu>
+  <AndLower>un</AndLower>
+  <DisabledLower>atspējots</DisabledLower>
 
 
-  <VersionIndicator>Version {0}</VersionIndicator>
-  <DevelopmentBuildLower>development build</DevelopmentBuildLower>
-  <CompiledOn>Compiled {0}</CompiledOn>
-  <LoggedIntoSteamAs>Logged into Steam as {0}</LoggedIntoSteamAs>
+  <VersionIndicator>Versija {0}</VersionIndicator>
+  <DevelopmentBuildLower>izstrādes laidiens</DevelopmentBuildLower>
+  <CompiledOn>Kompilēts {0}</CompiledOn>
+  <LoggedIntoSteamAs>Autorizējies iekš Steam kā {0}</LoggedIntoSteamAs>
 
   <!-- General-use words -->
-  <Yes>Yes</Yes>
-  <No>No</No>
-  <min>min</min>
-  <max>max</max>
-  <chance>chance</chance>
-  <context>context</context>
-  <multiplier>multiplier</multiplier>
-  <damage>damage</damage>
-  <radius>radius</radius>
-  <durationDays>duration (days)</durationDays>
-  <intervalDays>interval (days)</intervalDays>
-  <repeat>repeat</repeat>
+  <Yes>Jā</Yes>
+  <No>Nē</No>
+  <min>min.</min>
+  <max>maks.</max>
+  <chance>iespēja</chance>
+  <context>konteksts</context>
+  <multiplier>reizinātājs</multiplier>
+  <damage>bojājumi</damage>
+  <radius>rādiuss</radius>
+  <durationDays>ilgums (dienas)</durationDays>
+  <intervalDays>intervāls (dienas)</intervalDays>
+  <repeat>atkārtot</repeat>
 
   <!-- Content generation-->
   
-	<MeatLabel>{0} meat</MeatLabel>
-  <MeatDesc>Raw butchered flesh. Can be cooked into meals, or eaten raw.</MeatDesc>
+	<MeatLabel>{0} gaļa</MeatLabel>
+  <MeatDesc>Jēla kauta miesa miesa. Var tikt izmantota ēdienu pagatavošanā vai apēsta jēlā formātā.</MeatDesc>
 
-  <LeatherLabel>{0} leather</LeatherLabel>
-  <LeatherDesc>Tanned, dried, scraped skin. A good traditional material for making clothes and bags.</LeatherDesc>
+  <LeatherLabel>{0} āda</LeatherLabel>
+  <LeatherDesc>Krāsota, žāvēta, skrāpēta āda. Labs un tradicionāls materiāls priekš drēbju un somu izveides.</LeatherDesc>
 
-  <CorpseLabel>{0} corpse</CorpseLabel>
-	<CorpseDesc>Dead body of a {0}.</CorpseDesc>
-  <DeadLabel>{0} (dead)</DeadLabel>
+  <CorpseLabel>{0} līķis</CorpseLabel>
+	<CorpseDesc>{0} mirstīgās atliekas.</CorpseDesc>
+  <DeadLabel>{0} (miris)</DeadLabel>
 
-  <RoughStoneTerrainLabel>rough {0}</RoughStoneTerrainLabel>
-  <RoughStoneTerrainDesc>Rough, natural {0} ground.</RoughStoneTerrainDesc>
-  <RoughHewnStoneTerrainLabel>rough-hewn {0}</RoughHewnStoneTerrainLabel>
-  <RoughHewnStoneTerrainDesc>Roughly cut natural {0} floor.</RoughHewnStoneTerrainDesc>
-  <SmoothStoneTerrainLabel>smooth {0}</SmoothStoneTerrainLabel>
-  <SmoothStoneTerrainDesc>Smoothed natural {0} floor.</SmoothStoneTerrainDesc>
+  <RoughStoneTerrainLabel>nelīdzens {0}</RoughStoneTerrainLabel>
+  <RoughStoneTerrainDesc>Nelīdzena, dabīga {0} zeme.</RoughStoneTerrainDesc>
+  <RoughHewnStoneTerrainLabel>nelīdzens-izcirsts {0}</RoughHewnStoneTerrainLabel>
+  <RoughHewnStoneTerrainDesc>Nelīdzeni izcirsta dabīga {0} zeme.</RoughHewnStoneTerrainDesc>
+  <SmoothStoneTerrainLabel>līdzens {0}</SmoothStoneTerrainLabel>
+  <SmoothStoneTerrainDesc>Nolīdzināta dabīga {0} zeme.</SmoothStoneTerrainDesc>
 
-  <BlueprintLabelExtra> (blueprint)</BlueprintLabelExtra>
-  <FrameLabelExtra> (building)</FrameLabelExtra>
+  <BlueprintLabelExtra> (projekts)</BlueprintLabelExtra>
+  <FrameLabelExtra> (celtne)</FrameLabelExtra>
 
 
   <!-- For things made of stuff, e.g. "Stone bed" -->
   <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
   <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
 
-  <SomeonesRoom>{0}'s {1}</SomeonesRoom>
-  <CouplesRoom>{0} and {1}'s {2}</CouplesRoom>
+  <SomeonesRoom>{1} priekš {0}</SomeonesRoom>
+  <CouplesRoom>{2} priekš {0} un {1}</CouplesRoom>
   
-  <VariousLabel>(various)</VariousLabel>
+  <VariousLabel>(dažādi)</VariousLabel>
 
   <!-- History events -->
-  <ColonistDied>Colonist died</ColonistDied>
+  <ColonistDied>Kolonists nomira</ColonistDied>
   
   <!-- Rotation -->
-  <North>North</North>
-  <South>South</South>
-  <West>West</West>
-  <East>East</East>
+  <North>Ziemeļi</North>
+  <South>Dienvidi</South>
+  <West>Rietumi</West>
+  <East>Austrumi</East>
   
   
 </LanguageData>
