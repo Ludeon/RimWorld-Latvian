@@ -2,36 +2,36 @@
 <LanguageData>
 
   <!-- WITab titles -->
-  <TabTerrain>Terrain</TabTerrain>
-  <TabPlanet>Planet</TabPlanet>
-  <TabCaravanSocial>Social</TabCaravanSocial>
-  <TabCaravanHealth>Health</TabCaravanHealth>
-  <TabCaravanNeeds>Needs</TabCaravanNeeds>
-  <TabCaravanGear>Gear</TabCaravanGear>
-  <TabCaravanItems>Items</TabCaravanItems>
+  <TabTerrain>Apvidus</TabTerrain>
+  <TabPlanet>Planēta</TabPlanet>
+  <TabCaravanSocial>Sociāli</TabCaravanSocial>
+  <TabCaravanHealth>Veselība</TabCaravanHealth>
+  <TabCaravanNeeds>Vēlmes</TabCaravanNeeds>
+  <TabCaravanGear>Ekipējums</TabCaravanGear>
+  <TabCaravanItems>Priekšmeti</TabCaravanItems>
   
   <!-- Misc -->
-  <AbandonSliderText>Abandon {{0}}x {0}</AbandonSliderText>
-  <ConfirmAbandonItemDialog>Do you really want to abandon {0}?\n\nAbandoned items vanish and can never be recovered.</ConfirmAbandonItemDialog>
-  <AbandonTip>Abandon</AbandonTip>
-  <AbandonSpecificCountTip>Abandon specific count</AbandonSpecificCountTip>
-  <AbandonAllTip>Abandon (all)</AbandonAllTip>
-  <AbandonItemTipExtraText>Abandoned items vanish and can never be recovered.</AbandonItemTipExtraText>
-  <AbandonTipWillDie>{0} will most likely die.</AbandonTipWillDie>
+  <AbandonSliderText>Atstāt {{0}}x {0}</AbandonSliderText>
+  <ConfirmAbandonItemDialog>Vai tu patiešām vēlies atstāt {0}?\n\nAtstātie priekšmeti izgaist un tos vairs nekad nevarēs atgūt.</ConfirmAbandonItemDialog>
+  <AbandonTip>Atstāt</AbandonTip>
+  <AbandonSpecificCountTip>Atstāt noteiktu daudzumu</AbandonSpecificCountTip>
+  <AbandonAllTip>Atstāt (visu)</AbandonAllTip>
+  <AbandonItemTipExtraText>Atstātie priekšmeti izgaist un tos vairs nekad nevarēs atgūt.</AbandonItemTipExtraText>
+  <AbandonTipWillDie>{0} visdrīzākais nomirs.</AbandonTipWillDie>
   
   <!-- Caravan inspect -->
-  <CaravanColonists>Colonists</CaravanColonists>
-  <CaravanPrisonersAndAnimals>Prisoners and animals</CaravanPrisonersAndAnimals>
-  <CaravanItems>Inventory</CaravanItems>
-  <OpenSpecificTabButtonTip>Click to open a tab with more details.</OpenSpecificTabButtonTip>
-  <CaravanPrisoners>Prisoners</CaravanPrisoners>
-  <CaravanWeaponsAndApparel>Inventory</CaravanWeaponsAndApparel>
+  <CaravanColonists>Kolonisti</CaravanColonists>
+  <CaravanPrisonersAndAnimals>Cietumnieki un dzīvnieki</CaravanPrisonersAndAnimals>
+  <CaravanItems>Inventārs</CaravanItems>
+  <OpenSpecificTabButtonTip>Klikšķini, lai atvērtu jaunu cilni ar sīkāku informāciju.</OpenSpecificTabButtonTip>
+  <CaravanPrisoners>Cietumnieki</CaravanPrisoners>
+  <CaravanWeaponsAndApparel>Inventārs</CaravanWeaponsAndApparel>
   
   <!-- Caravan gear -->
-  <DragToRearrange>Drag to rearrange.</DragToRearrange>
+  <DragToRearrange>Velc, lai mainītu secību.</DragToRearrange>
   
   <!-- Planet -->
-  <PlanetSeed>Seed</PlanetSeed>
-  <PlanetCoverageShort>Coverage</PlanetCoverageShort>
+  <PlanetSeed>Sēkla</PlanetSeed>
+  <PlanetCoverageShort>Pārklājums</PlanetCoverageShort>
 
 </LanguageData>

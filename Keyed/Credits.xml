@@ -1,31 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <MainPageCredit>A colony simulator by Tynan Sylvester</MainPageCredit>
+  <MainPageCredit>Tainana Silvestera (Tynan Sylvester) kolonijas simulators</MainPageCredit>
   
-  <Credits_Developers>Developers</Credits_Developers>
-  <Credit_DirectionVarious>Direction, design, code, art</Credit_DirectionVarious>
-  <Credit_MusicAndSound>Music and sound</Credit_MusicAndSound>
-  <Credit_Code>Code</Credit_Code>
-  <Credit_GameArt>Game art</Credit_GameArt>
-  <Credit_MenuArt>Menu art</Credit_MenuArt>
-  <Credit_AdditionalCode>Additional code</Credit_AdditionalCode>
+  <Credits_Developers>Iztrādātāji</Credits_Developers>
+  <Credit_DirectionVarious>Režija, dizains, kods, māksla</Credit_DirectionVarious>
+  <Credit_MusicAndSound>Mūzika un skaņa</Credit_MusicAndSound>
+  <Credit_Code>Kods</Credit_Code>
+  <Credit_GameArt>Spēles māksla</Credit_GameArt>
+  <Credit_MenuArt>Izvēlnes māksla</Credit_MenuArt>
+  <Credit_AdditionalCode>Papildu kods</Credit_AdditionalCode>
   
-  <Credit_SpecialThanks>Special thanks</Credit_SpecialThanks>
+  <Credit_SpecialThanks>Īpašs paldies</Credit_SpecialThanks>
 
-  <Credits_TitleCommunity>Community volunteers</Credits_TitleCommunity>
-  <Credit_Tester>Tester</Credit_Tester>
-  <Credit_ModDonation>Mod donor</Credit_ModDonation>
-  <Credit_WritingDonation>Writing donor</Credit_WritingDonation>
-  <Credit_Moderator>Moderator</Credit_Moderator>
-  <Credit_WikiMaster>Wiki master</Credit_WikiMaster>
+  <Credits_TitleCommunity>Kopienas brīvprātīgie</Credits_TitleCommunity>
+  <Credit_Tester>Testētājs</Credit_Tester>
+  <Credit_ModDonation>Modifikāciju donors</Credit_ModDonation>
+  <Credit_WritingDonation>Rakstīšanas donors</Credit_WritingDonation>
+  <Credit_Moderator>Moderators</Credit_Moderator>
+  <Credit_WikiMaster>Vikipēdijas meistars</Credit_WikiMaster>
 
-  <Credits_TitleLanguage>{0} language</Credits_TitleLanguage>
-  <Credit_Writer>Writer</Credit_Writer>
-  <Credit_Translator>Translator</Credit_Translator>
-  <Credit_OpenSourceLibraries>Open source libraries</Credit_OpenSourceLibraries>
-  <Credit_NoiseGeneration>Noise generation</Credit_NoiseGeneration>
+  <Credits_TitleLanguage>{0} valoda</Credits_TitleLanguage>
+  <Credit_Writer>Rakstnieks</Credit_Writer>
+  <Credit_Translator>Tulkotājs</Credit_Translator>
+  <Credit_OpenSourceLibraries>Atvērtā koda bibliotekas</Credit_OpenSourceLibraries>
+  <Credit_NoiseGeneration>Trokšņu ģenerēšana</Credit_NoiseGeneration>
 
-  <ThanksForPlaying>Thanks for playing!</ThanksForPlaying>
+  <ThanksForPlaying>Paldies par spēlēšanu!</ThanksForPlaying>
 
 </LanguageData>
