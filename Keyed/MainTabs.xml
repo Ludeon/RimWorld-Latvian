@@ -2,78 +2,78 @@
 <LanguageData>
 
   <!-- Work tab -->
-  <ManualPriorities>Manual priorities</ManualPriorities>
-  <HigherPriority>higher priority</HigherPriority>
-  <LowerPriority>lower priority</LowerPriority>
-  <RelevantSkills>Relevant skills: {0}\nAverage of relevant skills: {1} / {2}</RelevantSkills>
-  <ClickToJumpTo>Click to jump to:</ClickToJumpTo>
-  <CannotDoThisWork>{0} cannot do this kind of work.</CannotDoThisWork>
-  <NoneBrackets>(none)</NoneBrackets>
-  <IncapableOfWorkTypeBecauseOfCapacities>This colonist is not able to do any work of this type because of his health condition.</IncapableOfWorkTypeBecauseOfCapacities>
-  <EmergencyWorkMarker>E</EmergencyWorkMarker>
+  <ManualPriorities>Pielāgot prioritātes</ManualPriorities>
+  <HigherPriority>augstāka prioritāte</HigherPriority>
+  <LowerPriority>zemāka prioritāte</LowerPriority>
+  <RelevantSkills>Saistītās prasmes: {0}\nPrasmju vīdējais novērtējums: {1} / {2}</RelevantSkills>
+  <ClickToJumpTo>Klikšķini, lai pārlektu uz:</ClickToJumpTo>
+  <CannotDoThisWork>{0} nevar paveikt šādu darbu.</CannotDoThisWork>
+  <NoneBrackets>(nav)</NoneBrackets>
+  <IncapableOfWorkTypeBecauseOfCapacities>Sakarā ar veselības stāvokli, šis kolonists nevar veikt jebkuru darbu no šī veida.</IncapableOfWorkTypeBecauseOfCapacities>
+  <EmergencyWorkMarker>Ā</EmergencyWorkMarker>
   
   <!-- Assign tab -->
-  <CurrentOutfit>Current outfit</CurrentOutfit>
-  <ManageOutfits>Manage outfits</ManageOutfits>
-  <ClearForcedApparel>Clear forced</ClearForcedApparel>
-  <ApparelForcedLower>forced</ApparelForcedLower>
-  <ForcedApparel>Forced apparel</ForcedApparel>
-  <AssignTabEdit>Edit...</AssignTabEdit>
-  <CurrentDrugPolicies>Current drug policy</CurrentDrugPolicies>
-  <ManageDrugPolicies>Manage drug policies</ManageDrugPolicies>
+  <CurrentOutfit>Pašreizējais apģērbs</CurrentOutfit>
+  <ManageOutfits>Pārvaldīt apģērbus</ManageOutfits>
+  <ClearForcedApparel>Noņemt piespiedu</ClearForcedApparel>
+  <ApparelForcedLower>piespiedu</ApparelForcedLower>
+  <ForcedApparel>Piespiedu apģērbus</ForcedApparel>
+  <AssignTabEdit>Rediģēt...</AssignTabEdit>
+  <CurrentDrugPolicies>Pašreizējā narkotiku politika</CurrentDrugPolicies>
+  <ManageDrugPolicies>Pārvaldīt narkotiku politiku</ManageDrugPolicies>
   
   <!-- Restrictions tab -->
-  <Copy>Copy</Copy>
-  <Paste>Paste</Paste>
-  <AllowedArea>Allowed area</AllowedArea>
+  <Copy>Kopēt</Copy>
+  <Paste>Ielīmēt</Paste>
+  <AllowedArea>Atļautā platība</AllowedArea>
   
   <!-- Animals tab -->
-  <Master>Master</Master>
-  <PregnantIconDesc>Pregnant ({0} / {1})</PregnantIconDesc>
-	<FollowDraftedTip>Follow master while the master is drafted.</FollowDraftedTip>
-	<FollowFieldworkTip>Follow master while the master is doing field work (hunting or taming animals).</FollowFieldworkTip>
+  <Master>Saimnieks</Master>
+  <PregnantIconDesc>Stāvoklī ({0} / {1})</PregnantIconDesc>
+	<FollowDraftedTip>Sekot saimniekam kamēr tas ir iesaukts bruņotajos spēkos.</FollowDraftedTip>
+	<FollowFieldworkTip>Sekot saimniekam kamēr tas veic darbus uz lauka (medī vai dresē dzīvniekus).</FollowFieldworkTip>
 	
   <!-- Factions tab -->
-  <Hostile>Hostile</Hostile>
-  <DefeatedLower>defeated</DefeatedLower>
-  <HostileTo>Enemy of {0}</HostileTo>
-  <CurrentGoodwill>Current goodwill with this faction.</CurrentGoodwill>
+  <Hostile>Naidīgs</Hostile>
+  <DefeatedLower>sakauts</DefeatedLower>
+  <HostileTo>{0} ienaidnieks</HostileTo>
+  <CurrentGoodwill>Šobrīd ir labas attiecības ar šo frakciju.</CurrentGoodwill>
   
 	<!-- Social tab -->
-	<Friend>Friend</Friend>
-	<Rival>Rival</Rival>
-	<Acquaintance>Acquaintance</Acquaintance>
+	<Friend>Draugs</Friend>
+	<Rival>Sāncensis</Rival>
+	<Acquaintance>Paziņa</Acquaintance>
 	
   <!-- History tab - subtabs -->
-  <Graph>Graph</Graph>
-  <Statistics>Statistics</Statistics>
+  <Graph>Diagramma</Graph>
+  <Statistics>Statistika</Statistics>
   
   <!-- History tab - Graphs -->
-  <SelectGraph>Select graph</SelectGraph>
-  <Last30Days>Last 30 days</Last30Days>
-  <Last100Days>Last 100 days</Last100Days>
-  <Last300Days>Last 300 days</Last300Days>
-  <AllDays>All</AllDays>
-  <Day>Day</Day>
-  <Value>Value</Value>
-  <External>External</External>
+  <SelectGraph>Izvēlēties diagrammu</SelectGraph>
+  <Last30Days>Pēdējās 30 dienas</Last30Days>
+  <Last100Days>Pēdējās 100 dienas</Last100Days>
+  <Last300Days>Pēdējās 300 dienas</Last300Days>
+  <AllDays>Visas</AllDays>
+  <Day>Diena</Day>
+  <Value>Vērtība</Value>
+  <External>Ārējs</External>
 
   <!-- History tab - Statistics -->
-  <Playtime>Play time</Playtime>
-  <Storyteller>Storyteller</Storyteller>
-  <ThisMapColonyWealthTotal>Colony wealth (this map)</ThisMapColonyWealthTotal>
-  <ThisMapColonyWealthItems>Colony wealth (items) (this map)</ThisMapColonyWealthItems>
-  <ThisMapColonyWealthBuildings>Colony wealth (buildings) (this map)</ThisMapColonyWealthBuildings>
-  <NumThreatBigs>Major threats</NumThreatBigs>
-  <NumEnemyRaids>Enemy raids</NumEnemyRaids>
-  <ThisMapDamageTaken>Damage taken (this map)</ThisMapDamageTaken>
-  <ColonistsKilled>Colonists killed</ColonistsKilled>
-  <ColonistsLaunched>Colonists launched into space</ColonistsLaunched>
+  <Playtime>Spēles laiks</Playtime>
+  <Storyteller>Stāstītājs (MI)</Storyteller>
+  <ThisMapColonyWealthTotal>Kolonijas bagātība (šajā kartē)</ThisMapColonyWealthTotal>
+  <ThisMapColonyWealthItems>Kolonijas bagātība (priekšmeti) (šajā kartē)</ThisMapColonyWealthItems>
+  <ThisMapColonyWealthBuildings>Kolonijas bagātība (celtnes) (šajā kartē)</ThisMapColonyWealthBuildings>
+  <NumThreatBigs>Lielākie draudi</NumThreatBigs>
+  <NumEnemyRaids>Ienaidnieku reidi</NumEnemyRaids>
+  <ThisMapDamageTaken>Saņemtie bojājumi (šajā kartē)</ThisMapDamageTaken>
+  <ColonistsKilled>Nogalinātie kolonisti</ColonistsKilled>
+  <ColonistsLaunched>Kolonisti palaisti kosmosā</ColonistsLaunched>
 
   <!-- Research tab -->
-  <ProjectTechLevel>project tech level</ProjectTechLevel>
-  <YourTechLevel>your tech level</YourTechLevel>
-  <ResearchCostMultiplier>cost multiplier</ResearchCostMultiplier>
-  <ResearchCostComparison>Project base cost {0} becomes {1} for you because of your tech level.</ResearchCostComparison>
+  <ProjectTechLevel>projekta tehnoloģijas līmenis</ProjectTechLevel>
+  <YourTechLevel>tavas tehnoloģijas līmenis</YourTechLevel>
+  <ResearchCostMultiplier>izmaksu reizinātājs</ResearchCostMultiplier>
+  <ResearchCostComparison>Dēļ tava tehnoloģijas līmeņa, projekta bāzes izmaksas {0} kļūst par {1}.</ResearchCostComparison>
   
 </LanguageData>
