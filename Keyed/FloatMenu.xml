@@ -1,148 +1,148 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<CallOnRadio>Call {0}</CallOnRadio>
-  <CannotUseReason>Cannot use ({0})</CannotUseReason>
-	<CannotUseSolarFlare>Cannot use (solar flare)</CannotUseSolarFlare>
-	<CannotUseNoPower>Cannot use (no power)</CannotUseNoPower>
-	<CannotUseNoPath>Cannot use (no path)</CannotUseNoPath>
-  <CannotUseReserved>Cannot use (reserved)</CannotUseReserved>
-  <CannotUseFull>Cannot use (full)</CannotUseFull>
-	<LeaderUnavailable>leader {0} is unavailable</LeaderUnavailable>
+	<CallOnRadio>Sazvanīt {0}</CallOnRadio>
+  <CannotUseReason>Nevar izmantot jo ({0})</CannotUseReason>
+	<CannotUseSolarFlare>Nevar izmantot (saules uzliesmojums)</CannotUseSolarFlare>
+	<CannotUseNoPower>Nevar izmantot (nav elektrības)</CannotUseNoPower>
+	<CannotUseNoPath>Nevar izmantot (nav piekļuves)</CannotUseNoPath>
+  <CannotUseReserved>Nevar izmantot (rezervēts)</CannotUseReserved>
+  <CannotUseFull>Nevar izmantot (pilns)</CannotUseFull>
+	<LeaderUnavailable>vadītājs {0} nav pieejams</LeaderUnavailable>
   
-  <FireAt>Fire at {0}</FireAt>
+  <FireAt>Šaut uz {0}</FireAt>
 
-  <OutOfRange>out of range</OutOfRange>
-  <CannotHitTarget>cannot hit target</CannotHitTarget>
-  <IsIncapableOfViolenceLower>{0} is incapable of violence</IsIncapableOfViolenceLower>
-  <IsNotDraftedLower>{0} is not drafted</IsNotDraftedLower>
-  <CannotOrderNonControlledLower>cannot order non-controlled units</CannotOrderNonControlledLower>
+  <OutOfRange>ārpus darbības rādiusa</OutOfRange>
+  <CannotHitTarget>nevar trāpīt mērķim</CannotHitTarget>
+  <IsIncapableOfViolenceLower>{0} nespēj veikt vardarbīgu rīcību</IsIncapableOfViolenceLower>
+  <IsNotDraftedLower>{0} nav iesaukts bruņotajos spēkos</IsNotDraftedLower>
+  <CannotOrderNonControlledLower>nevar izrīkot nekontrolējamas vienības</CannotOrderNonControlledLower>
 
-  <OrderManThing>Man {0}</OrderManThing>
+  <OrderManThing>Vadīt {0}</OrderManThing>
   
-  <MeleeAttack>Melee attack {0}</MeleeAttack>
-  <MeleeAttackToDeath>Melee attack {0} to death</MeleeAttackToDeath>
-  <NoPath>no path</NoPath>
+  <MeleeAttack>Uzbrukt {0} tuvcīņā</MeleeAttack>
+  <MeleeAttackToDeath>Uzbrukt {0} tuvcīņā līdzd nāvei</MeleeAttackToDeath>
+  <NoPath>nav pieejams</NoPath>
 
-	<ForbiddenLower>forbidden</ForbiddenLower>
-	<ForbiddenOutsideAllowedAreaLower>outside allowed area</ForbiddenOutsideAllowedAreaLower>
-	<NotInHomeArea>not in home area</NotInHomeArea>
-	<SociallyImproperLower>socially improper</SociallyImproperLower>
-	<PrisonerRoomLower>prisoner room</PrisonerRoomLower>
-	<BurningLower>burning</BurningLower>
-	<NoEmptyPlaceLower>no empty place configured to store it</NoEmptyPlaceLower>
-	<AlreadyFilledLower>already filled enough</AlreadyFilledLower>
-	<MissingMaterials>need materials</MissingMaterials>
-	<MissingSkill>skill too low</MissingSkill>
-	<NoEmptyGraveLower>no empty grave configured to store it</NoEmptyGraveLower>
-	<AnimalInteractedTooRecently>animal interacted too recently</AnimalInteractedTooRecently>
-	<NoUsableFood>no usable food</NoUsableFood>
-	<NoFood>no food</NoFood>
-	<AnimalsSkillTooLow>Animals skill too low</AnimalsSkillTooLow>
-	<NoComponentsToRepair>need components</NoComponentsToRepair>
-	<NoFuelToRefuel>need {0}</NoFuelToRefuel>
-  <NoWort>need wort</NoWort>
+	<ForbiddenLower>aizliegts</ForbiddenLower>
+	<ForbiddenOutsideAllowedAreaLower>ārpus atļautās platības</ForbiddenOutsideAllowedAreaLower>
+	<NotInHomeArea>nav iekš mājas platības</NotInHomeArea>
+	<SociallyImproperLower>sociāli nepiedienīgs</SociallyImproperLower>
+	<PrisonerRoomLower>cietumnieka istaba</PrisonerRoomLower>
+	<BurningLower>deg</BurningLower>
+	<NoEmptyPlaceLower>nav uzstādīta brīva vieta, lai to uzglabātu</NoEmptyPlaceLower>
+	<AlreadyFilledLower>jau ir pietiekami piepildīts</AlreadyFilledLower>
+	<MissingMaterials>nepieciešami izejmateriāli</MissingMaterials>
+	<MissingSkill>prasmes par vāju</MissingSkill>
+	<NoEmptyGraveLower>nav brīva kapu kopiņa, lai to noglabātu</NoEmptyGraveLower>
+	<AnimalInteractedTooRecently>pārkāk nesen to aiztika dzīvnieks</AnimalInteractedTooRecently>
+	<NoUsableFood>nav lietojams pārtikā</NoUsableFood>
+	<NoFood>nav pārtikas</NoFood>
+	<AnimalsSkillTooLow>Dzīvnieka prasmes ir par vāju</AnimalsSkillTooLow>
+	<NoComponentsToRepair>trūkst sastāvdaļas</NoComponentsToRepair>
+	<NoFuelToRefuel>nepieciešams {0}</NoFuelToRefuel>
+  <NoWort>nepieciešama misa</NoWort>
   
-  <ConsumeThing>Consume {0}</ConsumeThing>
+  <ConsumeThing>Apēst {0}</ConsumeThing>
   
-  <CannotGoNoPath>Cannot go here (no path)</CannotGoNoPath>
-  <GoHere>Go here</GoHere>
+  <CannotGoNoPath>Nevar doties uz turieni (nav piekļuves)</CannotGoNoPath>
+  <GoHere>Doties uz turieni</GoHere>
   
-  <Arrest>Arrest {0}</Arrest>
-  <TryToArrest>Try to arrest {0}</TryToArrest>
-  <CannotArrest>Cannot arrest</CannotArrest>
+  <Arrest>Arestēt {0}</Arrest>
+  <TryToArrest>Mēģināt arestēt {0}</TryToArrest>
+  <CannotArrest>Nevar arestēt</CannotArrest>
 
-  <Capture>Capture {0}</Capture>
-  <CannotCapture>Cannot capture</CannotCapture>
+  <Capture>Sagūstīt {0}</Capture>
+  <CannotCapture>Nevar sagūstīt</CannotCapture>
 
-  <Rescue>Rescue {0}</Rescue>
-  <CannotRescue>Cannot rescue</CannotRescue>
+  <Rescue>Izglābt {0}</Rescue>
+  <CannotRescue>Nevar izglābt</CannotRescue>
 
-  <CarryToCryptosleepCasket>Carry {0} to cryptosleep casket</CarryToCryptosleepCasket>
-  <CannotCarryToCryptosleepCasket>Cannot carry to cryptosleep casket</CannotCarryToCryptosleepCasket>
+  <CarryToCryptosleepCasket>Aiznest {0} uz kriptomiega zārku</CarryToCryptosleepCasket>
+  <CannotCarryToCryptosleepCasket>Nevar aiznest uz kriptomiega zārku</CannotCarryToCryptosleepCasket>
 
-  <NoCryptosleepCasket>No available cryptosleep casket.</NoCryptosleepCasket>
-  <NoPrisonerBed>No reachable, un-reserved, enclosed prisoner-marked bed.</NoPrisonerBed>
-  <NoNonPrisonerBed>No reachable, un-reserved non-prisoner bed.</NoNonPrisonerBed>
-  <NoAnimalBed>No reachable, un-reserved animal bed.</NoAnimalBed>
-  <Reserved>Reserved by someone else.</Reserved>
-  <ReservedBy>Reserved by {0}</ReservedBy>
-  <IsReservedBy>{0} is reserved by {1}.</IsReservedBy>
-  <TooHeavy>Too heavy</TooHeavy>
+  <NoCryptosleepCasket>Nav pieejams kriptomiega zārks.</NoCryptosleepCasket>
+  <NoPrisonerBed>Nav sasniedzama nerezervēta, cietumnieka gulta slēgtā telpā.</NoPrisonerBed>
+  <NoNonPrisonerBed>Nav sasniedzama nerezervēta, ne-cietumnieka gulta.</NoNonPrisonerBed>
+  <NoAnimalBed>Nav sasniedzama nerezervēta, dzīvnieka gulta.</NoAnimalBed>
+  <Reserved>To ju kāds cits ir rezervējis.</Reserved>
+  <ReservedBy>Rezervēja {0}</ReservedBy>
+  <IsReservedBy>{1} rezervēja šo {0}.</IsReservedBy>
+  <TooHeavy>Pārāk smags</TooHeavy>
 
-  <Incapable>incapable</Incapable>
-  <IncapableOfCapacity>incapable of {0}</IncapableOfCapacity>
+  <Incapable>nespējīgs</Incapable>
+  <IncapableOfCapacity>nespējīgs {0}</IncapableOfCapacity>
 
-  <MinSkill>min skill</MinSkill>
+  <MinSkill>mazākais prasmju līmenis</MinSkill>
   
-  <Equip>Equip {0}</Equip>
-  <EquipWarningBrawler>(brawler will be unhappy)</EquipWarningBrawler>
-  <CannotEquip>Cannot equip {0}</CannotEquip>
+  <Equip>Uzvlikt {0}</Equip>
+  <EquipWarningBrawler>(ķildnieks nebūs priecīgs)</EquipWarningBrawler>
+  <CannotEquip>Nevar uzvilkt {0}</CannotEquip>
   
-  <ForceWear>Force wear {0}</ForceWear>
-  <CannotWear>Cannot wear {0}</CannotWear>
-  <CannotWearBecauseOfMissingBodyParts>missing body parts</CannotWearBecauseOfMissingBodyParts>
+  <ForceWear>Piespiest uzvlikt {0}</ForceWear>
+  <CannotWear>Nevar valkāt {0}</CannotWear>
+  <CannotWearBecauseOfMissingBodyParts>trūkst ķermeņa daļas</CannotWearBecauseOfMissingBodyParts>
   
-  <CannotPickUp>Cannot pick up {0}</CannotPickUp>
-  <CannotPickUpAll>Cannot pick up {0} (all)</CannotPickUpAll>
-  <PickUp>Pick up {0}</PickUp>
-  <PickUpAll>Pick up {0} (all)</PickUpAll>
-  <PickUpSome>Pick up {0}...</PickUpSome>
-  <PickUpCount>Pick up {0} x{{0}}</PickUpCount>
+  <CannotPickUp>Nevar pacelt {0}</CannotPickUp>
+  <CannotPickUpAll>Nevar pacelt {0} (visu)</CannotPickUpAll>
+  <PickUp>Pacelt {0}</PickUp>
+  <PickUpAll>Pacelt {0} (visu)</PickUpAll>
+  <PickUpSome>Pacelt {0}...</PickUpSome>
+  <PickUpCount>Pacelt {0} x{{0}}</PickUpCount>
   
-  <CannotGiveToPackAnimal>Cannot give {0} to pack animal</CannotGiveToPackAnimal>
-  <CannotGiveToPackAnimalAll>Cannot give {0} (all) to pack animal</CannotGiveToPackAnimalAll>
-  <GiveToPackAnimal>Give {0} to pack animal</GiveToPackAnimal>
-  <GiveToPackAnimalAll>Give {0} (all) to pack animal</GiveToPackAnimalAll>
-  <GiveToPackAnimalSome>Give {0} to pack animal...</GiveToPackAnimalSome>
-  <GiveToPackAnimalCount>Take {0} x{{0}}</GiveToPackAnimalCount>
+  <CannotGiveToPackAnimal>Nevar iedot {0} bara dzīvniekam</CannotGiveToPackAnimal>
+  <CannotGiveToPackAnimalAll>Nevar iedot {0} (visu) bara dzīvniekam</CannotGiveToPackAnimalAll>
+  <GiveToPackAnimal>Iedot {0} bara dzīvniekam</GiveToPackAnimal>
+  <GiveToPackAnimalAll>Iedot {0} (visu) bara dzīvniekam</GiveToPackAnimalAll>
+  <GiveToPackAnimalSome>Iedot {0} bara dzīvniekam...</GiveToPackAnimalSome>
+  <GiveToPackAnimalCount>Iedot {0} x{{0}}</GiveToPackAnimalCount>
   
-  <CannotCarryToExit>Cannot carry {0} and leave the area</CannotCarryToExit>
-  <CarryToExit>Carry {0} and leave the area</CarryToExit>
+  <CannotCarryToExit>Nevar panest {0} un pamest šo teritoriju</CannotCarryToExit>
+  <CarryToExit>Nest {0} un pamest šo teritoriju</CarryToExit>
   
-  <Strip>Strip {0}</Strip>
-  <CannotStrip>Cannot strip {0}</CannotStrip>
+  <Strip>Izģērbt {0}</Strip>
+  <CannotStrip>Nevar izģērbt {0}</CannotStrip>
 
-  <SelfDestructHere>Self-destruct here</SelfDestructHere>
+  <SelfDestructHere>Pašiznīcināties šeit</SelfDestructHere>
   
-  <Drop>Drop {0}</Drop>
+  <Drop>Pamest {0}</Drop>
 
-  <UseMedicalBed>Rest until healed</UseMedicalBed>
-  <NotInjured>Not injured</NotInjured>
-  <SomeoneElseSleeping>Occupied</SomeoneElseSleeping>
+  <UseMedicalBed>Atpūsties līdz sadzīšanai</UseMedicalBed>
+  <NotInjured>Nav ievainots</NotInjured>
+  <SomeoneElseSleeping>Aizņemts</SomeoneElseSleeping>
   
-  <TradeWith>Trade with {0}</TradeWith>
-  <CannotTrade>Cannot trade</CannotTrade>
+  <TradeWith>Tirgoties ar {0}</TradeWith>
+  <CannotTrade>Nevar tirgoties</CannotTrade>
   
-  <EnterMap>Enter {0}</EnterMap>
-  <VisitFactionBase>Visit {0}</VisitFactionBase>
-  <AttackFactionBase>Attack {0}</AttackFactionBase>
+  <EnterMap>Ieiet {0}</EnterMap>
+  <VisitFactionBase>Apciemot {0}</VisitFactionBase>
+  <AttackFactionBase>Uzbrukt {0}</AttackFactionBase>
 
   <!-- Specific thing interactions -->
-  <EnterCryptosleepCasket>Enter cryptosleep casket</EnterCryptosleepCasket>
-  <OpenCryptosleepCasket>Open cryptosleep casket</OpenCryptosleepCasket>
+  <EnterCryptosleepCasket>Ieiet kriptomiega zārkā</EnterCryptosleepCasket>
+  <OpenCryptosleepCasket>Atvērt kriptomiega zārku</OpenCryptosleepCasket>
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
-  <CannotGenericWork>Cannot {0} {1}</CannotGenericWork>
+  <CannotGenericWork>Nevar {0} {1}</CannotGenericWork>
 
   <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
-  <CannotMissingHealthActivities>Cannot prioritize (incapable of {0})</CannotMissingHealthActivities>
+  <CannotMissingHealthActivities>Nevar izvirzīt par prioritāti (nav spējīgs {0})</CannotMissingHealthActivities>
 
-  <CannotGenericAlreadyAm>Already {0} {1}</CannotGenericAlreadyAm>
+  <CannotGenericAlreadyAm>Jau {0} {1}</CannotGenericAlreadyAm>
 
-  <CannotPrioritizeWorkTypeDisabled>Cannot prioritize (will never do {0})</CannotPrioritizeWorkTypeDisabled>
+  <CannotPrioritizeWorkTypeDisabled>Nevar izvirzīt par prioritāti (nekad nedarīs {0})</CannotPrioritizeWorkTypeDisabled>
   
-  <CannotPrioritizeNotAssignedToWorkType>Cannot prioritize (not assigned to {0})</CannotPrioritizeNotAssignedToWorkType>
+  <CannotPrioritizeNotAssignedToWorkType>Nevar izvirzīt par prioritāti (nav piešķirts pie {0})</CannotPrioritizeNotAssignedToWorkType>
 
-  <CannotPrioritizeResearch>Cannot prioritize (research is a long-term task)</CannotPrioritizeResearch>
+  <CannotPrioritizeResearch>Nevar izvirzīt par prioritāti (izpēte ir ilgtermiņa uzdevums)</CannotPrioritizeResearch>
 
-  <CannotPrioritizeForbidden>Cannot prioritize ({0} is forbidden)</CannotPrioritizeForbidden>
-  <CannotPrioritizeForbiddenOutsideAllowedArea>Cannot prioritize ({0} is outside allowed area)</CannotPrioritizeForbiddenOutsideAllowedArea>
+  <CannotPrioritizeForbidden>Nevar izvirzīt par prioritāti ({0} ir aizliegts)</CannotPrioritizeForbidden>
+  <CannotPrioritizeForbiddenOutsideAllowedArea>Nevar izvirzīt par prioritāti ({0} ir ārpus atļautās platības)</CannotPrioritizeForbiddenOutsideAllowedArea>
   
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
-  <PrioritizeGeneric>Prioritize {0} {1}</PrioritizeGeneric>
+  <PrioritizeGeneric>Izvirzīt par prioritāti {0} {1}</PrioritizeGeneric>
   
-  <DropAtEdge>Drop at edge</DropAtEdge>
-  <DropInCenter>Drop in center</DropInCenter>
+  <DropAtEdge>Pamest pie robežas</DropAtEdge>
+  <DropInCenter>Pamest centrā</DropInCenter>
   
 </LanguageData>
