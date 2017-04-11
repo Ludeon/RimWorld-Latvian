@@ -103,7 +103,7 @@
   <Strip>Izģērbt {0}</Strip>
   <CannotStrip>Nevar izģērbt {0}</CannotStrip>
 
-  <SelfDestructHere>Pašiznīcināties šeit</SelfDestructHere>
+  <SelfDestructHere>Pašiznīcināties</SelfDestructHere>
   
   <Drop>Pamest {0}</Drop>
 
@@ -126,18 +126,18 @@
   <CannotGenericWork>Nevar {0} {1}</CannotGenericWork>
 
   <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
-  <CannotMissingHealthActivities>Nevar izvirzīt par prioritāti (nav spējīgs {0})</CannotMissingHealthActivities>
+  <CannotMissingHealthActivities>Nevar prioritizēt (nav spējīgs {0})</CannotMissingHealthActivities>
 
   <CannotGenericAlreadyAm>Jau {0} {1}</CannotGenericAlreadyAm>
 
-  <CannotPrioritizeWorkTypeDisabled>Nevar izvirzīt par prioritāti (nekad nedarīs {0})</CannotPrioritizeWorkTypeDisabled>
+  <CannotPrioritizeWorkTypeDisabled>Nevar prioritizēt (nekad nedarīs {0})</CannotPrioritizeWorkTypeDisabled>
   
-  <CannotPrioritizeNotAssignedToWorkType>Nevar izvirzīt par prioritāti (nav piešķirts pie {0})</CannotPrioritizeNotAssignedToWorkType>
+  <CannotPrioritizeNotAssignedToWorkType>Nevar prioritizēt (nav nozīmēts pie {0})</CannotPrioritizeNotAssignedToWorkType>
 
-  <CannotPrioritizeResearch>Nevar izvirzīt par prioritāti (izpēte ir ilgtermiņa uzdevums)</CannotPrioritizeResearch>
+  <CannotPrioritizeResearch>Nevar prioritizēt (izpēte ir ilgtermiņa uzdevums)</CannotPrioritizeResearch>
 
-  <CannotPrioritizeForbidden>Nevar izvirzīt par prioritāti ({0} ir aizliegts)</CannotPrioritizeForbidden>
-  <CannotPrioritizeForbiddenOutsideAllowedArea>Nevar izvirzīt par prioritāti ({0} ir ārpus atļautās platības)</CannotPrioritizeForbiddenOutsideAllowedArea>
+  <CannotPrioritizeForbidden>Nevar prioritizēt ({0} ir aizliegts)</CannotPrioritizeForbidden>
+  <CannotPrioritizeForbiddenOutsideAllowedArea>Nevar prioritizēt ({0} ir ārpus atļautās platības)</CannotPrioritizeForbiddenOutsideAllowedArea>
   
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
   <PrioritizeGeneric>Izvirzīt par prioritāti {0} {1}</PrioritizeGeneric>
