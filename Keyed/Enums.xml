@@ -2,155 +2,155 @@
 <LanguageData>
 
   <!-- glow -->
-  <Dark>Dark</Dark>
-  <Lit>Lit</Lit>
-  <LitBrightly>Brightly lit</LitBrightly>
+  <Dark>Tumšs</Dark>
+  <Lit>Apgaismots</Lit>
+  <LitBrightly>Spoži apgaismots</LitBrightly>
   
   <!-- history upload pref -->
-  <Unspecified>Undecided</Unspecified>
-  <Always>Allow</Always>
-  <Never>Do not allow</Never>
+  <Unspecified>Nenoteikts</Unspecified>
+  <Always>Atļaut</Always>
+  <Never>Neatļaut</Never>
   
   <!-- Price types -->
-  <PriceTypeVeryCheap>very cheap</PriceTypeVeryCheap>
-  <PriceTypeCheap>cheap</PriceTypeCheap>
-  <PriceTypeNormal>normal</PriceTypeNormal>
-  <PriceTypeExpensive>expensive</PriceTypeExpensive>
-  <PriceTypeExorbitant>exorbitant</PriceTypeExorbitant>
+  <PriceTypeVeryCheap>ļoti lēti</PriceTypeVeryCheap>
+  <PriceTypeCheap>lēti</PriceTypeCheap>
+  <PriceTypeNormal>normāli</PriceTypeNormal>
+  <PriceTypeExpensive>dārgi</PriceTypeExpensive>
+  <PriceTypeExorbitant>pārmērīgi dārgi</PriceTypeExorbitant>
 
   <!-- Storage priority labels -->
-  <StoragePriorityUnstored>unstored</StoragePriorityUnstored>
-  <StoragePriorityLow>low</StoragePriorityLow>
-  <StoragePriorityNormal>normal</StoragePriorityNormal>
-  <StoragePriorityPreferred>preferred</StoragePriorityPreferred>
-  <StoragePriorityImportant>important</StoragePriorityImportant>
-  <StoragePriorityCritical>critical</StoragePriorityCritical>
+  <StoragePriorityUnstored>nav šķirots</StoragePriorityUnstored>
+  <StoragePriorityLow>zema</StoragePriorityLow>
+  <StoragePriorityNormal>normāla</StoragePriorityNormal>
+  <StoragePriorityPreferred>izvēlētā</StoragePriorityPreferred>
+  <StoragePriorityImportant>svarīga</StoragePriorityImportant>
+  <StoragePriorityCritical>kritiska</StoragePriorityCritical>
 
   <!-- Food type flags -->
-  <FoodTypeFlags_VegetableOrFruit>vegetables</FoodTypeFlags_VegetableOrFruit>
-  <FoodTypeFlags_Meat>raw meat</FoodTypeFlags_Meat>
-  <FoodTypeFlags_Corpse>corpses</FoodTypeFlags_Corpse>
-  <FoodTypeFlags_Seed>seeds</FoodTypeFlags_Seed>
-  <FoodTypeFlags_AnimalProduct>animal products</FoodTypeFlags_AnimalProduct>
-  <FoodTypeFlags_Plant>live plants</FoodTypeFlags_Plant>
-  <FoodTypeFlags_Tree>live trees</FoodTypeFlags_Tree>
-  <FoodTypeFlags_Meal>meals</FoodTypeFlags_Meal>
-  <FoodTypeFlags_Processed>processed foods</FoodTypeFlags_Processed>
-  <FoodTypeFlags_Liquor>liquor</FoodTypeFlags_Liquor>
-  <FoodTypeFlags_Kibble>kibble</FoodTypeFlags_Kibble>
+  <FoodTypeFlags_VegetableOrFruit>dārzeņi</FoodTypeFlags_VegetableOrFruit>
+  <FoodTypeFlags_Meat>jēla gaļa</FoodTypeFlags_Meat>
+  <FoodTypeFlags_Corpse>līķi</FoodTypeFlags_Corpse>
+  <FoodTypeFlags_Seed>sēklas</FoodTypeFlags_Seed>
+  <FoodTypeFlags_AnimalProduct>dzīvnieku produkti</FoodTypeFlags_AnimalProduct>
+  <FoodTypeFlags_Plant>dzīvi augi</FoodTypeFlags_Plant>
+  <FoodTypeFlags_Tree>dzīvi koki</FoodTypeFlags_Tree>
+  <FoodTypeFlags_Meal>maltītes</FoodTypeFlags_Meal>
+  <FoodTypeFlags_Processed>pārstrādāti produkti</FoodTypeFlags_Processed>
+  <FoodTypeFlags_Liquor>alkohols</FoodTypeFlags_Liquor>
+  <FoodTypeFlags_Kibble>lopbarība</FoodTypeFlags_Kibble>
 
   <!-- Quality category -->
-  <QualityCategory_Awful>awful</QualityCategory_Awful>
-  <QualityCategory_Shoddy>shoddy</QualityCategory_Shoddy>
-  <QualityCategory_Poor>poor</QualityCategory_Poor>
-  <QualityCategory_Normal>normal</QualityCategory_Normal>
-  <QualityCategory_Good>good</QualityCategory_Good>
-  <QualityCategory_Superior>superior</QualityCategory_Superior>
-  <QualityCategory_Excellent>excellent</QualityCategory_Excellent>
-  <QualityCategory_Masterwork>masterwork</QualityCategory_Masterwork>
-  <QualityCategory_Legendary>legendary</QualityCategory_Legendary>
-  <QualityCategoryShort_Awful>awfl</QualityCategoryShort_Awful>
-  <QualityCategoryShort_Shoddy>shod</QualityCategoryShort_Shoddy>
-  <QualityCategoryShort_Poor>poor</QualityCategoryShort_Poor>
-  <QualityCategoryShort_Normal>norm</QualityCategoryShort_Normal>
-  <QualityCategoryShort_Good>good</QualityCategoryShort_Good>
-  <QualityCategoryShort_Superior>supr</QualityCategoryShort_Superior>
-  <QualityCategoryShort_Excellent>exc</QualityCategoryShort_Excellent>
-  <QualityCategoryShort_Masterwork>mast</QualityCategoryShort_Masterwork>
-  <QualityCategoryShort_Legendary>legd</QualityCategoryShort_Legendary>
+  <QualityCategory_Awful>šausmīgs</QualityCategory_Awful>
+  <QualityCategory_Shoddy>slikts</QualityCategory_Shoddy>
+  <QualityCategory_Poor>nabadzīgs</QualityCategory_Poor>
+  <QualityCategory_Normal>normāls</QualityCategory_Normal>
+  <QualityCategory_Good>labs</QualityCategory_Good>
+  <QualityCategory_Superior>labāks</QualityCategory_Superior>
+  <QualityCategory_Excellent>lielisks</QualityCategory_Excellent>
+  <QualityCategory_Masterwork>meistardarbs</QualityCategory_Masterwork>
+  <QualityCategory_Legendary>leģendārs</QualityCategory_Legendary>
+  <QualityCategoryShort_Awful>šau.</QualityCategoryShort_Awful>
+  <QualityCategoryShort_Shoddy>sli.</QualityCategoryShort_Shoddy>
+  <QualityCategoryShort_Poor>nab.</QualityCategoryShort_Poor>
+  <QualityCategoryShort_Normal>nor.</QualityCategoryShort_Normal>
+  <QualityCategoryShort_Good>lab.</QualityCategoryShort_Good>
+  <QualityCategoryShort_Superior>lbā.</QualityCategoryShort_Superior>
+  <QualityCategoryShort_Excellent>lie.</QualityCategoryShort_Excellent>
+  <QualityCategoryShort_Masterwork>mei.</QualityCategoryShort_Masterwork>
+  <QualityCategoryShort_Legendary>leģ.</QualityCategoryShort_Legendary>
   
   <!-- Hunger -->
-  <HungerLevel_Starving>Starving</HungerLevel_Starving>
-  <HungerLevel_UrgentlyHungry>Urgently hungry</HungerLevel_UrgentlyHungry>
-  <HungerLevel_Hungry>Hungry</HungerLevel_Hungry>
-  <HungerLevel_Fed>Fed</HungerLevel_Fed>
+  <HungerLevel_Starving>Badā</HungerLevel_Starving>
+  <HungerLevel_UrgentlyHungry>Steidzami izsalcis</HungerLevel_UrgentlyHungry>
+  <HungerLevel_Hungry>Izsalcis</HungerLevel_Hungry>
+  <HungerLevel_Fed>Paēdis</HungerLevel_Fed>
 
   <!-- -Fatigue -->
-  <HungerLevel_Exhausted>Exhausted</HungerLevel_Exhausted>
-  <HungerLevel_VeryTired>Very tired</HungerLevel_VeryTired>
-  <HungerLevel_Tired>Tired</HungerLevel_Tired>
-  <HungerLevel_Rested>Rested</HungerLevel_Rested>
+  <HungerLevel_Exhausted>Nomocījies</HungerLevel_Exhausted>
+  <HungerLevel_VeryTired>Ļoti noguris</HungerLevel_VeryTired>
+  <HungerLevel_Tired>Noguris</HungerLevel_Tired>
+  <HungerLevel_Rested>Atpūties</HungerLevel_Rested>
 
   <!-- Hilliness -->
-  <Hilliness_Flat>flat</Hilliness_Flat>
-  <Hilliness_SmallHills>small hills</Hilliness_SmallHills>
-  <Hilliness_LargeHills>large hills</Hilliness_LargeHills>
-  <Hilliness_Mountainous>mountainous</Hilliness_Mountainous>
-  <Hilliness_Impassable>impassable</Hilliness_Impassable>
+  <Hilliness_Flat>plakankalne</Hilliness_Flat>
+  <Hilliness_SmallHills>mazi kalni</Hilliness_SmallHills>
+  <Hilliness_LargeHills>lieli kalni</Hilliness_LargeHills>
+  <Hilliness_Mountainous>kalnains</Hilliness_Mountainous>
+  <Hilliness_Impassable>necaurejams</Hilliness_Impassable>
   
   <!-- Steam workshop interaction -->
-  <WorkshopInteractStage_CreatingItem>Creating</WorkshopInteractStage_CreatingItem>
-  <WorkshopInteractStage_SubmittingItem>Submitting</WorkshopInteractStage_SubmittingItem>
-  <EItemUpdateStatus_k_EItemUpdateStatusInvalid>Invalid</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
-  <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>Preparing config data</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
-  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Preparing content files</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
-  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Uploading content</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
-  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Uploading preview file</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
-  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Committing changes</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
+  <WorkshopInteractStage_CreatingItem>Veidošanā</WorkshopInteractStage_CreatingItem>
+  <WorkshopInteractStage_SubmittingItem>Iesniegšanā</WorkshopInteractStage_SubmittingItem>
+  <EItemUpdateStatus_k_EItemUpdateStatusInvalid>Nav derīgs</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>Sagatavo uzstādījumu datus</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Sagatavo satura failus</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Augšupielādē saturu</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Augšupielādē priekšskata failu</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
+  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Iesūta izmaiņas</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
 
   <!-- Mod sources -->
-  <ContentSource_LocalFolder>local folder</ContentSource_LocalFolder>
-  <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
+  <ContentSource_LocalFolder>vietējā mape</ContentSource_LocalFolder>
+  <ContentSource_SteamWorkshop>Steam darbnīca</ContentSource_SteamWorkshop>
   
   <!-- Trainable intelligence -->
-  <TrainableIntelligence_None>none</TrainableIntelligence_None>
-  <TrainableIntelligence_Simple>simple</TrainableIntelligence_Simple>
-  <TrainableIntelligence_Intermediate>intermediate</TrainableIntelligence_Intermediate>
-  <TrainableIntelligence_Advanced>advanced</TrainableIntelligence_Advanced>
+  <TrainableIntelligence_None>nav</TrainableIntelligence_None>
+  <TrainableIntelligence_Simple>vienkārša</TrainableIntelligence_Simple>
+  <TrainableIntelligence_Intermediate>vidēja</TrainableIntelligence_Intermediate>
+  <TrainableIntelligence_Advanced>progresīva</TrainableIntelligence_Advanced>
 
   <!-- Medical care category -->
-  <MedicalCareCategory_NoCare>No medical care</MedicalCareCategory_NoCare>
-  <MedicalCareCategory_NoMeds>Doctor care, but no medicine</MedicalCareCategory_NoMeds>
-  <MedicalCareCategory_HerbalOrWorse>Herbal medicine or worse</MedicalCareCategory_HerbalOrWorse>
-  <MedicalCareCategory_NormalOrWorse>Normal medicine or worse</MedicalCareCategory_NormalOrWorse>
-  <MedicalCareCategory_Best>Best quality medical care</MedicalCareCategory_Best>
+  <MedicalCareCategory_NoCare>Bez medicīniskās aprūpes</MedicalCareCategory_NoCare>
+  <MedicalCareCategory_NoMeds>Daktera aprūpe, bet bez zālēm</MedicalCareCategory_NoMeds>
+  <MedicalCareCategory_HerbalOrWorse>Augu izcelsmes vai vienkāršākas zāles</MedicalCareCategory_HerbalOrWorse>
+  <MedicalCareCategory_NormalOrWorse>Parastās vai vienkāršākas zāles</MedicalCareCategory_NormalOrWorse>
+  <MedicalCareCategory_Best>Labākās kvalitātes medicīniskā aprūpe</MedicalCareCategory_Best>
 
   <!-- Hostility response mode -->
-  <HostilityResponseMode_Ignore>Ignore</HostilityResponseMode_Ignore>
-  <HostilityResponseMode_Attack>Attack</HostilityResponseMode_Attack>
-  <HostilityResponseMode_Flee>Flee</HostilityResponseMode_Flee>
+  <HostilityResponseMode_Ignore>Ignorēt</HostilityResponseMode_Ignore>
+  <HostilityResponseMode_Attack>Uzbrukt</HostilityResponseMode_Attack>
+  <HostilityResponseMode_Flee>Bēgt</HostilityResponseMode_Flee>
   
   <!-- HediffGrowthMode -->
-  <HediffGrowthMode_Growing>growing</HediffGrowthMode_Growing>
-  <HediffGrowthMode_Stable>stable</HediffGrowthMode_Stable>
-  <HediffGrowthMode_Remission>remission</HediffGrowthMode_Remission>
+  <HediffGrowthMode_Growing>aug</HediffGrowthMode_Growing>
+  <HediffGrowthMode_Stable>stabils</HediffGrowthMode_Stable>
+  <HediffGrowthMode_Remission>atgrūšana</HediffGrowthMode_Remission>
 
   <!-- TechLevel -->
-  <TechLevel_Animal>animal</TechLevel_Animal>
-  <TechLevel_Neolithic>neolithic</TechLevel_Neolithic>
-  <TechLevel_Medieval>medieval</TechLevel_Medieval>
-  <TechLevel_Industrial>industrial</TechLevel_Industrial>
-  <TechLevel_Spacer>spacer</TechLevel_Spacer>
-  <TechLevel_Ultra>ultra</TechLevel_Ultra>
-  <TechLevel_Transcendent>transcendent</TechLevel_Transcendent>
+  <TechLevel_Animal>dzīvnieku</TechLevel_Animal>
+  <TechLevel_Neolithic>neolīta</TechLevel_Neolithic>
+  <TechLevel_Medieval>viduslaiku</TechLevel_Medieval>
+  <TechLevel_Industrial>rūpniecisks</TechLevel_Industrial>
+  <TechLevel_Spacer>kosmisks</TechLevel_Spacer>
+  <TechLevel_Ultra>galējs</TechLevel_Ultra>
+  <TechLevel_Transcendent>transcendents</TechLevel_Transcendent>
 
   <!-- Player pawns arrive method -->
-  <PlayerPawnsArriveMethod_Standing>Standing</PlayerPawnsArriveMethod_Standing>
-  <PlayerPawnsArriveMethod_DropPods>Drop pods</PlayerPawnsArriveMethod_DropPods>
+  <PlayerPawnsArriveMethod_Standing>Stāvus</PlayerPawnsArriveMethod_Standing>
+  <PlayerPawnsArriveMethod_DropPods>Nolaišanas kapsulā</PlayerPawnsArriveMethod_DropPods>
 
   <!-- Pawn generation context -->
-  <PawnGenerationContext_All>all characters</PawnGenerationContext_All>
-  <PawnGenerationContext_PlayerStarter>player starting characters</PawnGenerationContext_PlayerStarter>
-  <PawnGenerationContext_NonPlayer>non-player characters</PawnGenerationContext_NonPlayer>
+  <PawnGenerationContext_All>visi personāži</PawnGenerationContext_All>
+  <PawnGenerationContext_PlayerStarter>spēlētāja sākuma personāži</PawnGenerationContext_PlayerStarter>
+  <PawnGenerationContext_NonPlayer>nespēlējamie personāži</PawnGenerationContext_NonPlayer>
   
   <!-- Animal name display mode -->
-  <ShowAnimalNames>Show animal names</ShowAnimalNames>
-  <AnimalNameDisplayMode_TameNamed>Tame (named only)</AnimalNameDisplayMode_TameNamed>
-  <AnimalNameDisplayMode_TameAll>Tame (all)</AnimalNameDisplayMode_TameAll>
+  <ShowAnimalNames>Rādīt dzīvnieku vārdus</ShowAnimalNames>
+  <AnimalNameDisplayMode_TameNamed>Dresēt (tikai nosauktos)</AnimalNameDisplayMode_TameNamed>
+  <AnimalNameDisplayMode_TameAll>Dresēt (visus)</AnimalNameDisplayMode_TameAll>
   
   <!-- Temperature -->
-  <Celsius>Celsius</Celsius>
-  <Fahrenheit>Fahrenheit</Fahrenheit>
-  <Kelvin>Kelvin</Kelvin>
+  <Celsius>Celsija</Celsius>
+  <Fahrenheit>Fārenheita</Fahrenheit>
+  <Kelvin>Kelvina</Kelvin>
   
   <!-- Direction8Way -->
-  <Direction8Way_North_Short>N</Direction8Way_North_Short>
-  <Direction8Way_NorthEast_Short>NE</Direction8Way_NorthEast_Short>
-  <Direction8Way_East_Short>E</Direction8Way_East_Short>
-  <Direction8Way_SouthEast_Short>SE</Direction8Way_SouthEast_Short>
-  <Direction8Way_South_Short>S</Direction8Way_South_Short>
-  <Direction8Way_SouthWest_Short>SW</Direction8Way_SouthWest_Short>
-  <Direction8Way_West_Short>W</Direction8Way_West_Short>
-  <Direction8Way_NorthWest_Short>NW</Direction8Way_NorthWest_Short>
+  <Direction8Way_North_Short>Z</Direction8Way_North_Short>
+  <Direction8Way_NorthEast_Short>ZA</Direction8Way_NorthEast_Short>
+  <Direction8Way_East_Short>A</Direction8Way_East_Short>
+  <Direction8Way_SouthEast_Short>DA</Direction8Way_SouthEast_Short>
+  <Direction8Way_South_Short>D</Direction8Way_South_Short>
+  <Direction8Way_SouthWest_Short>DR</Direction8Way_SouthWest_Short>
+  <Direction8Way_West_Short>R</Direction8Way_West_Short>
+  <Direction8Way_NorthWest_Short>ZR</Direction8Way_NorthWest_Short>
   
 </LanguageData>
